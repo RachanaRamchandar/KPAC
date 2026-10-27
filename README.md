@@ -2,6 +2,8 @@
 
 KPAC is a reproducibly curated metadata corpus and locked reference benchmark for story-qualified Kathakali padam recognition.
 
+Repository: https://github.com/RachanaRamchandar/KPAC
+
 ## What is in this repository
 
 - `outputs/`: manifests, audits, the frozen benchmark, predictions, metrics, reports, and summary workbook.
