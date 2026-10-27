@@ -1,0 +1,14 @@
+{
+  "status": "complete_candidate_screen",
+  "recordings": 112,
+  "within_class_pairs": 496,
+  "candidate_pairs": 0,
+  "thresholds": {
+    "acoustic_shingle_jaccard_at_least": 0.2,
+    "duration_ratio_at_least": 0.85
+  },
+  "maximum_observed_jaccard": 0.016679113766492407,
+  "candidate_record_pairs": [],
+  "interpretation": "A below-threshold result reduces concern about direct transcodes under this fingerprint, but cannot prove that two files come from independently staged performances. Candidate pairs require provenance and listening inspection before any grouped resplit.",
+  "method": "Within-class Jaccard similarity of 2-second time-ordered shingles built from dominant chroma, coarse spectral-centroid bins and energy direction on 0.5-second frames."
+}

@@ -1,0 +1,497 @@
+padam_canonical_id,left_record_id,right_record_id,left_main_musician,right_main_musician,left_duration_seconds,right_duration_seconds,duration_ratio,acoustic_shingle_jaccard,shared_shingles,candidate_near_duplicate,inspection_status
+santhana_gopalam__ha_ha_karomi,218,273,Kalamandalam Tirur Nambissan,Kottakkal Narayanan,905.8568707482993,1305.4456235827665,0.6939062450278054,0.016679113766492407,67,0,screen_below_threshold
+kuchela_vritham__danavari,546,588,Kalamandalam Sankaran Embranthiri,Kalamandalam Babu Namboothiri,545.2016780045351,761.887641723356,0.7155932819323767,0.01077414205905826,27,0,screen_below_threshold
+kuchela_vritham__danavari,581,588,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,699.2840362811792,761.887641723356,0.917830921498385,0.00857449088960343,24,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,230,Kottakkal P.D Namboothiri,Kalamandalam Gangadharan,1378.7460997732426,813.3101587301587,0.5898911763840499,0.006592292089249493,26,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,377,Kalamandalam Neelakandan Nambisan,Kottakkal Narayanan,701.8496371882086,795.9158049886621,0.881813921509206,0.005687877710629221,16,0,screen_below_threshold
+kuchela_vritham__danavari,546,581,Kalamandalam Sankaran Embranthiri,Kottakkal Narayanan,545.2016780045351,699.2840362811792,0.7796569773048727,0.00546448087431694,13,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,403,Deepa Palanad,Deepa Palanad,1399.6922448979592,2047.659125,0.6835572521856924,0.005317577548005908,36,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,394,Deepa Palanad,Deepa Palanad,1399.6922448979592,1333.2625,0.9525397492626659,0.00521901211556384,28,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,273,289,Kottakkal Narayanan,Kalamandalam Unnikrishna Kurup,1305.4456235827665,1149.8136507936508,0.8807824929835169,0.00520268805549534,24,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,377,385,Kottakkal Narayanan,Kottakkal Narayanan,795.9158049886621,982.4314965986395,0.8101489088493912,0.004918981481481482,17,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,057,107,Kalamandalam Jayaprakash,Kalamandalam Sankaran Embranthiri,707.4233333333333,968.7608843537415,0.7302352363300196,0.004895960832313341,16,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,230,293,Kalamandalam Gangadharan,Kalamandalam Subramanian,813.3101587301587,806.1562358276644,0.9912039425233986,0.004829251466022766,14,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,366,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,1033.9879818594104,999.2427664399092,0.9663968865895142,0.00452147701582517,18,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,377,Kottakkal Narayanan,Kottakkal Narayanan,1033.9879818594104,795.9158049886621,0.7697534390654857,0.004521051144391071,16,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,378,Kalamandalam Hyderali,Kalamandalam Venmani Haridas,680.777641723356,1914.3036734693878,0.355626774977425,0.0044921875,23,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,118,120,Kalamandalam Tirur Nambissan,Kottakkal Narayanan,1042.915328798186,1059.999625,0.9838827337303879,0.0044106836559666745,18,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,366,377,Kalamandalam Babu Namboothiri,Kottakkal Narayanan,999.2427664399092,795.9158049886621,0.7965189558732978,0.004336513443191674,15,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,393,Deepa Palanad,Kalamandalam Raveendran,864.072,662.3212698412699,0.7665116678254473,0.004058167061210686,12,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,303,314,Kalamandalam Babu Namboothiri,Kalamandalam Vinod,942.915918367347,1205.7415,0.7820216177077316,0.004051477597712107,17,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,242,299,Kottakkal Narayanan,,1028.304,561.96,0.5464920879428651,0.0038948393378773127,12,0,screen_below_threshold
+kuchela_vritham__danavari,588,595,Kalamandalam Babu Namboothiri,Kalanilayam Unnikrishnan,761.887641723356,710.7134693877551,0.9328323895373245,0.0038705137227304713,11,0,screen_below_threshold
+keechaka_vadham__harinakshi,337,367,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,1059.3050340136053,1549.0537868480726,0.6838400596592709,0.0037571682815898755,19,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,270,298,Kottakkal Narayanan,Kalamandalam Tirur Nambissan,977.442358276644,524.016,0.5361093629335926,0.0035236081747709656,10,0,screen_below_threshold
+keechaka_vadham__harinakshi,355,356,Kalamandalam Rajendran,Kottakkal Narayanan,1461.996,1783.85325,0.8195719014442473,0.003515500159795462,22,0,screen_below_threshold
+keechaka_vadham__harinakshi,338,394,Deepa Palanad,Deepa Palanad,1041.3273333333334,1333.2625,0.7810369925902314,0.003416613282084134,16,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,273,Kottakkal P.D Namboothiri,Kottakkal Narayanan,1378.7460997732426,1305.4456235827665,0.9468354063140911,0.003401360544217687,17,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,293,Kottakkal P.D Namboothiri,Kalamandalam Subramanian,1378.7460997732426,806.1562358276644,0.5847024596916358,0.003395585738539898,14,0,screen_below_threshold
+keechaka_vadham__harinakshi,356,367,Kottakkal Narayanan,Kottakkal Narayanan,1783.85325,1549.0537868480726,0.868375123821465,0.0032941176470588237,21,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,421,Kalamandalam Neelakandan Nambisan,,701.8496371882086,748.9475736961451,0.9371145081951429,0.0032292787944025836,9,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,338,Deepa Palanad,Deepa Palanad,1399.6922448979592,1041.3273333333334,0.7439687810867657,0.0031282586027111575,15,0,screen_below_threshold
+kuchela_vritham__danavari,581,586,Kottakkal Narayanan,Kalamandalam Unnikrishna Kurup,699.2840362811792,629.0454875283447,0.8995564819034538,0.00312256049960968,8,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,556,567,Kalamandalam Unnikrishna Kurup,Kalamandalam Tirur Nambissan,759.172,603.5342403628118,0.7949901212937408,0.0030876109610189118,8,0,screen_below_threshold
+kuchela_vritham__danavari,546,586,Kalamandalam Sankaran Embranthiri,Kalamandalam Unnikrishna Kurup,545.2016780045351,629.0454875283447,0.8667126444969028,0.0030796304443466782,7,0,screen_below_threshold
+kuchela_vritham__danavari,586,588,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,629.0454875283447,761.887641723356,0.8256407547252922,0.0029596744358120607,8,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,303,Kottakkal P.D Namboothiri,Kalamandalam Babu Namboothiri,1378.7460997732426,942.915918367347,0.6838938064973855,0.0029378531073446326,13,0,screen_below_threshold
+kuchela_vritham__danavari,546,595,Kalamandalam Sankaran Embranthiri,Kalanilayam Unnikrishnan,545.2016780045351,710.7134693877551,0.7671188200136402,0.002898550724637681,7,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,060,062,Kalamandalam Babu Namboothiri,Kalamandalam Unnikrishna Kurup,1308.4880272108844,836.3245351473923,0.6391533722552013,0.002875629043853343,12,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,242,268,Kottakkal Narayanan,Pathiyoor Shankarankutty,1028.304,748.2670294784581,0.727671028682625,0.002857142857142857,10,0,screen_below_threshold
+keechaka_vadham__harinakshi,355,378,Kalamandalam Rajendran,Kalamandalam Venmani Haridas,1461.996,1914.3036734693878,0.7637220887479947,0.0028502850285028504,19,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,056,153,Kalamandalam Unnikrishna Kurup,Kalamandalam Unnikrishna Kurup,882.6626077097505,579.5221768707484,0.6565613766900557,0.002840909090909091,8,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,218,289,Kalamandalam Tirur Nambissan,Kalamandalam Unnikrishna Kurup,905.8568707482993,1149.8136507936508,0.7878292887921777,0.002839442436757873,11,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,107,118,Kalamandalam Sankaran Embranthiri,Kalamandalam Tirur Nambissan,968.7608843537415,1042.915328798186,0.9288969656531014,0.002827036751477769,11,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,289,Kottakkal P.D Namboothiri,Kalamandalam Unnikrishna Kurup,1378.7460997732426,1149.8136507936508,0.8339560496183862,0.0027066416822819073,13,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,377,421,Kottakkal Narayanan,,795.9158049886621,748.9475736961451,0.9409884424984046,0.0026764804282368685,8,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,567,593,Kalamandalam Tirur Nambissan,Kalamandalam Neelakandan Nambisan,603.5342403628118,389.7349886621315,0.6457545613780655,0.002653927813163482,5,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,421,Deepa Palanad,,864.072,748.9475736961451,0.8667652391191303,0.0025550942190993293,8,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,060,118,Kalamandalam Babu Namboothiri,Kalamandalam Tirur Nambissan,1308.4880272108844,1042.915328798186,0.797038495660689,0.0024112231477422183,11,0,screen_below_threshold
+keechaka_vadham__harinakshi,394,403,Deepa Palanad,Deepa Palanad,1333.2625,2047.659125,0.6511154536036363,0.0023955681988321606,16,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,355,Kalamandalam Hyderali,Kalamandalam Rajendran,680.777641723356,1461.996,0.4656494557600404,0.0023741690408357074,10,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,268,299,Pathiyoor Shankarankutty,,748.2670294784581,561.96,0.7510153165397198,0.002366863905325444,6,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,556,572,Kalamandalam Unnikrishna Kurup,Kottakkal P.D Namboothiri,759.172,775.7783446712018,0.9785939569140203,0.002327901563019621,7,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,381,Kalamandalam Rajendran,Kalamandalam Babu Namboothiri,678.024,423.3009297052154,0.6243155547668157,0.0022935779816513763,5,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,385,Kottakkal Narayanan,Kottakkal Narayanan,1033.9879818594104,982.4314965986395,0.9501382161443913,0.002256204562547004,9,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,407,421,Deepa Palanad,,824.115125,748.9475736961451,0.9087899869525451,0.002249357326478149,7,0,screen_below_threshold
+kuchela_vritham__danavari,581,595,Kottakkal Narayanan,Kalanilayam Unnikrishnan,699.2840362811792,710.7134693877551,0.9839183671073213,0.0022172949002217295,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,155,180,Kalamandalam Venmani Haridas,Kalamandalam Babu Namboothiri,1669.177732426304,1318.3975,0.7898484831112548,0.002195945945945946,13,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,366,Kalamandalam Neelakandan Nambisan,Kalamandalam Babu Namboothiri,701.8496371882086,999.2427664399092,0.702381504035051,0.0021432945499081446,7,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,056,116,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,882.6626077097505,1043.27126984127,0.8460528275105712,0.002112490097702667,8,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,357,Kottakkal Narayanan,Kottakkal Narayanan,1033.9879818594104,903.8305,0.874120894881825,0.002108036890645586,8,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,350,Kalamandalam Neelakandan Nambisan,Kottakkal Narayanan,701.8496371882086,1033.9879818594104,0.6787792986975335,0.002091425156856887,7,0,screen_below_threshold
+keechaka_vadham__harinakshi,356,378,Kottakkal Narayanan,Kalamandalam Venmani Haridas,1783.85325,1914.3036734693878,0.9318548957109997,0.0020873921514055105,15,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,348,Kalamandalam Neelakandan Nambisan,Deepa Palanad,701.8496371882086,864.072,0.8122582807777692,0.002023608768971332,6,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,568,585,Kottakkal Narayanan,Kottakkal Narayanan,472.53784580498865,536.101125,0.8814341618943415,0.0020232675771370764,4,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,060,142,Kalamandalam Babu Namboothiri,Kalamandalam Unnikrishna Kurup,1308.4880272108844,1004.7306349206349,0.7678561928168915,0.002008032128514056,9,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,055,150,Kalamandalam Hyderali,Kalamandalam Vinod,825.3913832199546,972.5976875,0.848646253047928,0.0019937339789233835,7,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,385,407,Kottakkal Narayanan,Deepa Palanad,982.4314965986395,824.115125,0.8388525081425421,0.0019509476031215162,7,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,366,379,Kalamandalam Babu Namboothiri,Kalamandalam Gangadharan,999.2427664399092,850.5679138321996,0.8512124804891941,0.0019225487503433123,7,0,screen_below_threshold
+kuchela_vritham__danavari,559,595,Kalamandalam Neelakandan Nambisan,Kalanilayam Unnikrishnan,952.5239455782313,710.7134693877551,0.7461371156987715,0.0018472906403940886,6,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,385,Kalamandalam Neelakandan Nambisan,Kottakkal Narayanan,701.8496371882086,982.4314965986395,0.7144005863188859,0.001837109614206981,6,0,screen_below_threshold
+keechaka_vadham__harinakshi,337,356,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,1059.3050340136053,1783.85325,0.5938296964806973,0.0018294914013904135,10,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,377,Kalamandalam Hyderali,Kottakkal Narayanan,360.078820861678,795.9158049886621,0.452408180117503,0.001796138302649304,4,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,273,293,Kottakkal Narayanan,Kalamandalam Subramanian,1305.4456235827665,806.1562358276644,0.6175333704173649,0.001771703366236396,7,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,554,572,Kalanilayam Unnikrishnan,Kottakkal P.D Namboothiri,660.1402040816326,775.7783446712018,0.8509392001157494,0.001768033946251768,5,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,378,Kalamandalam Unnikrishna Kurup,Kalamandalam Venmani Haridas,1530.0,1914.3036734693878,0.7992462330843804,0.0017610801291458762,12,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,555,568,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,387.41816326530613,472.53784580498865,0.8198669518318105,0.0017574692442882249,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,366,421,Kalamandalam Babu Namboothiri,,999.2427664399092,748.9475736961451,0.74951513170767,0.0017467248908296944,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,154,155,Kalamandalam Unnikrishna Kurup,Kalamandalam Venmani Haridas,1555.531,1669.177732426304,0.9319145407834384,0.0017344686218858404,11,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,354,Deepa Palanad,Kalamandalam Rajendran,864.072,678.024,0.7846846096158654,0.0016672224074691564,5,0,screen_below_threshold
+kuchela_vritham__danavari,586,606,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,629.0454875283447,897.5713378684808,0.7008306314929559,0.0016627868307283007,5,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,551,572,Kalamandalam P.G Radhakrishnan,Kottakkal P.D Namboothiri,756.7276190476191,775.7783446712018,0.9754430814491774,0.0016550810989738498,5,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,218,Kottakkal P.D Namboothiri,Kalamandalam Tirur Nambissan,1378.7460997732426,905.8568707482993,0.6570150014547873,0.001644736842105263,7,0,screen_below_threshold
+kuchela_vritham__danavari,588,636,Kalamandalam Babu Namboothiri,Kottakkal P.D Namboothiri,761.887641723356,491.4154195011338,0.644997231336597,0.001629327902240326,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,385,Kottakkal Narayanan,Kottakkal Narayanan,903.8305,982.4314965986395,0.9199934073054755,0.0016150740242261105,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,056,186,Kalamandalam Unnikrishna Kurup,Kalamandalam Madambi Subramanian Namboothiri,882.6626077097505,1018.0074376417233,0.8670492720116983,0.0015944724953494552,6,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,568,596,Kottakkal Narayanan,Kottakkal P.D Namboothiri,472.53784580498865,477.4938321995465,0.9896208368352563,0.0015915119363395225,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,377,379,Kottakkal Narayanan,Kalamandalam Gangadharan,795.9158049886621,850.5679138321996,0.9357463314160246,0.0015629884338855893,5,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,293,314,Kalamandalam Subramanian,Kalamandalam Vinod,806.1562358276644,1205.7415,0.6685979008167707,0.0015360983102918587,6,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,551,567,Kalamandalam P.G Radhakrishnan,Kalamandalam Tirur Nambissan,756.7276190476191,603.5342403628118,0.7975580977504044,0.0015343306482546988,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,366,385,Kalamandalam Babu Namboothiri,Kottakkal Narayanan,999.2427664399092,982.4314965986395,0.9831759904540868,0.001534134492457172,6,0,screen_below_threshold
+santhana_gopalam__vidhimatham,208,302,Kalamandalam Babu Namboothiri,Kalamandalam Harish Namboothiri,326.1839909297052,333.41525,0.9783115527250333,0.0015278838808250573,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,378,Deepa Palanad,Kalamandalam Venmani Haridas,1399.6922448979592,1914.3036734693878,0.7311756563477869,0.0015278838808250573,10,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,377,Kottakkal Narayanan,Kottakkal Narayanan,903.8305,795.9158049886621,0.8806029504300442,0.0015276504735716467,5,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,407,Deepa Palanad,Deepa Palanad,864.072,824.115125,0.953757470442278,0.0015202189115232593,5,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,055,056,Kalamandalam Hyderali,Kalamandalam Unnikrishna Kurup,825.3913832199546,882.6626077097505,0.9351153838515966,0.001479727730097662,5,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,356,Kalamandalam Hyderali,Kottakkal Narayanan,680.777641723356,1783.85325,0.3816332098637352,0.0014796026210103573,7,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,057,118,Kalamandalam Jayaprakash,Kalamandalam Tirur Nambissan,707.4233333333333,1042.915328798186,0.6783132952399307,0.0014762326542663124,5,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,356,Deepa Palanad,Kottakkal Narayanan,1399.6922448979592,1783.85325,0.7846453988846668,0.0014655593551538837,9,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,062,107,Kalamandalam Unnikrishna Kurup,Kalamandalam Sankaran Embranthiri,836.3245351473923,968.7608843537415,0.8632930464624434,0.0014249073810202336,5,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,314,Kottakkal P.D Namboothiri,Kalamandalam Vinod,1378.7460997732426,1205.7415,0.8745203342357988,0.0014107214832728737,7,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,377,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,316.7744217687075,795.9158049886621,0.39799991378889626,0.0014018691588785046,3,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,230,289,Kalamandalam Gangadharan,Kalamandalam Unnikrishna Kurup,813.3101587301587,1149.8136507936508,0.707340844465342,0.0013939224979091162,5,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,062,118,Kalamandalam Unnikrishna Kurup,Kalamandalam Tirur Nambissan,836.3245351473923,1042.915328798186,0.8019102913283855,0.0013823610727121925,5,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,338,Kalamandalam Unnikrishna Kurup,Deepa Palanad,1530.0,1041.3273333333334,0.6806061002178649,0.0013795821836815136,7,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,421,Kalamandalam Hyderali,,360.078820861678,748.9475736961451,0.48077974147729235,0.001366742596810934,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,407,Kottakkal Narayanan,Deepa Palanad,1033.9879818594104,824.115125,0.7970258256948034,0.0013616557734204794,5,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,551,556,Kalamandalam P.G Radhakrishnan,Kalamandalam Unnikrishna Kurup,756.7276190476191,759.172,0.996780201387326,0.0013458950201884253,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,379,Kalamandalam Neelakandan Nambisan,Kalamandalam Gangadharan,701.8496371882086,850.5679138321996,0.8251541420438178,0.001333777925975325,4,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,289,293,Kalamandalam Unnikrishna Kurup,Kalamandalam Subramanian,1149.8136507936508,806.1562358276644,0.701119033741877,0.0013319126265316996,5,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,357,Kalamandalam Neelakandan Nambisan,Kottakkal Narayanan,701.8496371882086,903.8305,0.7765279410112942,0.0013016596160104132,4,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,060,120,Kalamandalam Babu Namboothiri,Kottakkal Narayanan,1308.4880272108844,1059.999625,0.8100950126837986,0.001288659793814433,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,153,186,Kalamandalam Unnikrishna Kurup,Kalamandalam Madambi Subramanian Namboothiri,579.5221768707484,1018.0074376417233,0.5692710636901112,0.0012882447665056361,4,0,screen_below_threshold
+kuchela_vritham__danavari,581,606,Kottakkal Narayanan,Kottakkal Narayanan,699.2840362811792,897.5713378684808,0.779084632918218,0.001282051282051282,4,0,screen_below_threshold
+kuchela_vritham__danavari,595,636,Kalanilayam Unnikrishnan,Kottakkal P.D Namboothiri,710.7134693877551,491.4154195011338,0.6914395753952209,0.001279317697228145,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,377,Deepa Palanad,Kottakkal Narayanan,864.072,795.9158049886621,0.921122088192491,0.0012626262626262627,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,357,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,316.7744217687075,903.8305,0.3504798983534053,0.001256281407035176,3,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,218,293,Kalamandalam Tirur Nambissan,Kalamandalam Subramanian,905.8568707482993,806.1562358276644,0.8899377615381165,0.0012492192379762648,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,421,Kottakkal Narayanan,,903.8305,748.9475736961451,0.8286371987846671,0.001234186979327368,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,421,Deepa Palanad,,945.288,748.9475736961451,0.7922956534898836,0.001215436037678517,4,0,screen_below_threshold
+keechaka_vadham__harinakshi,338,378,Deepa Palanad,Kalamandalam Venmani Haridas,1041.3273333333334,1914.3036734693878,0.5439718618133789,0.0011957635804578067,7,0,screen_below_threshold
+keechaka_vadham__harinakshi,337,378,Kalamandalam Unnikrishna Kurup,Kalamandalam Venmani Haridas,1059.3050340136053,1914.3036734693878,0.5533631098841147,0.001191692202928158,7,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,407,Kottakkal Narayanan,Deepa Palanad,903.8305,824.115125,0.9118027384559384,0.001177856301531213,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,379,Kottakkal Narayanan,Kalamandalam Gangadharan,903.8305,850.5679138321996,0.9410701606464924,0.001160092807424594,4,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,154,185,Kalamandalam Unnikrishna Kurup,Kalamandalam Madambi Subramanian Namboothiri,1555.531,1611.9490702947846,0.9650000912966392,0.0011235955056179776,7,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,366,Kalamandalam Hyderali,Kalamandalam Babu Namboothiri,360.078820861678,999.2427664399092,0.36035169125573235,0.001122754491017964,3,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,558,635,Kottakkal Madhu,Kottakkal P.D Namboothiri,524.181875,380.502,0.7258969036272,0.0011148272017837235,2,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,055,153,Kalamandalam Hyderali,Kalamandalam Unnikrishna Kurup,825.3913832199546,579.5221768707484,0.7021180359430942,0.0011025358324145535,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,364,Kottakkal Narayanan,Kalamandalam Hyderali,1033.9879818594104,360.078820861678,0.3482427525068056,0.0010897203051216855,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,062,120,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,836.3245351473923,1059.999625,0.7889856896387037,0.0010790396547073105,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,366,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,903.8305,999.2427664399092,0.9045154294387909,0.0010758472296933835,4,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,551,554,Kalamandalam P.G Radhakrishnan,Kalanilayam Unnikrishnan,756.7276190476191,660.1402040816326,0.8723617157154291,0.0010744985673352436,3,0,screen_below_threshold
+keechaka_vadham__harinakshi,367,394,Kottakkal Narayanan,Deepa Palanad,1549.0537868480726,1333.2625,0.860694774655209,0.0010651517841292384,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,154,180,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,1555.531,1318.3975,0.847554629255219,0.0010638297872340426,6,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,270,299,Kottakkal Narayanan,,977.442358276644,561.96,0.5749290433768468,0.0010449320794148381,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,336,Kalamandalam Neelakandan Nambisan,Kalamandalam Unnikrishna Kurup,701.8496371882086,316.7744217687075,0.4513422889805684,0.0010309278350515464,2,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,293,Kalamandalam Unnikrishna Kurup,Kalamandalam Subramanian,1187.251156462585,806.1562358276644,0.6790106974750036,0.001030662200463798,4,0,screen_below_threshold
+keechaka_vadham__harinakshi,355,367,Kalamandalam Rajendran,Kottakkal Narayanan,1461.996,1549.0537868480726,0.9437993776670514,0.0010214504596527069,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,116,150,Kalamandalam Babu Namboothiri,Kalamandalam Vinod,1043.27126984127,972.5976875,0.932257712462433,0.001019108280254777,4,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,393,407,Kalamandalam Raveendran,Deepa Palanad,662.3212698412699,824.115125,0.8036756634472275,0.0010183299389002036,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,407,Kalamandalam Neelakandan Nambisan,Deepa Palanad,701.8496371882086,824.115125,0.8516402816757047,0.0010176390773405698,3,0,screen_below_threshold
+keechaka_vadham__harinakshi,356,394,Kottakkal Narayanan,Deepa Palanad,1783.85325,1333.2625,0.747405931513705,0.000994530084535057,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,147,155,Kalamandalam Neelakandan Nambisan,Kalamandalam Venmani Haridas,1408.48,1669.177732426304,0.8438166725077528,0.0009932130441979805,6,0,screen_below_threshold
+keechaka_vadham__harinakshi,338,403,Deepa Palanad,Deepa Palanad,1041.3273333333334,2047.659125,0.5085452557116085,0.000982640026203734,6,0,screen_below_threshold
+santhana_gopalam__vidhimatham,203,302,Kalamandalam Venmani Haridas,Kalamandalam Harish Namboothiri,185.30004535147393,333.41525,0.5557635571602496,0.0009699321047526673,1,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,593,634,Kalamandalam Neelakandan Nambisan,Kottakkal P.D Namboothiri,389.7349886621315,658.7819501133787,0.5915993730475717,0.0009633911368015414,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,377,407,Kottakkal Narayanan,Deepa Palanad,795.9158049886621,824.115125,0.965782304976701,0.000952683391552874,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,379,421,Kalamandalam Gangadharan,,850.5679138321996,748.9475736961451,0.880526482972761,0.000946969696969697,3,0,screen_below_threshold
+keechaka_vadham__harinakshi,378,394,Kalamandalam Venmani Haridas,Deepa Palanad,1914.3036734693878,1333.2625,0.6964738763644861,0.0009319664492078285,6,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,379,407,Kalamandalam Gangadharan,Deepa Palanad,850.5679138321996,824.115125,0.9688998510265717,0.0009027986758952753,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,104,148,Kottakkal Madhu,Athippatta Raveendran,285.17825,285.54272108843537,0.9987235847334994,0.0009009009009009009,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,338,Kalamandalam Hyderali,Deepa Palanad,680.777641723356,1041.3273333333334,0.6537595047506893,0.0008836524300441826,3,0,screen_below_threshold
+santhana_gopalam__vidhimatham,208,226,Kalamandalam Babu Namboothiri,Kalamandalam Vinod,326.1839909297052,245.7774149659864,0.7534931872819995,0.0008833922261484099,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,337,Kalamandalam Hyderali,Kalamandalam Unnikrishna Kurup,680.777641723356,1059.3050340136053,0.6426644071953049,0.0008784773060029283,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,147,154,Kalamandalam Neelakandan Nambisan,Kalamandalam Unnikrishna Kurup,1408.48,1555.531,0.9054657219946115,0.0008688097306689834,5,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,334,Deepa Palanad,Kalamandalam Unnikrishna Kurup,1399.6922448979592,1530.0,0.9148315326130452,0.0008665511265164644,5,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,379,Kalamandalam Unnikrishna Kurup,Kalamandalam Gangadharan,316.7744217687075,850.5679138321996,0.37242695923185376,0.0008639308855291577,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,381,421,Kalamandalam Babu Namboothiri,,423.3009297052154,748.9475736961451,0.5651943401274072,0.0008628127696289905,2,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,057,120,Kalamandalam Jayaprakash,Kottakkal Narayanan,707.4233333333333,1059.999625,0.6673807392463307,0.0008625646923519264,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,114,115,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Babu Namboothiri,831.3902040816326,1531.9421088435374,0.5427034084918841,0.0008600301010535369,4,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,104,141,Kottakkal Madhu,Kottakkal Narayanan,285.17825,346.8607029478458,0.8221693826264301,0.0008576329331046312,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,421,Kottakkal Narayanan,,1033.9879818594104,748.9475736961451,0.7243290897340219,0.0008525149190110827,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,185,Kalamandalam Venmani Haridas,Kalamandalam Madambi Subramanian Namboothiri,1932.6032653061225,1611.9490702947846,0.8340817276014761,0.0008520306731042318,6,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,403,Kalamandalam Unnikrishna Kurup,Deepa Palanad,1530.0,2047.659125,0.747194677727427,0.0008485362749257531,6,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,357,Deepa Palanad,Kottakkal Narayanan,945.288,903.8305,0.9561429955738358,0.0008396305625524769,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,379,385,Kalamandalam Gangadharan,Kottakkal Narayanan,850.5679138321996,982.4314965986395,0.8657783436066778,0.000823271130625686,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,381,407,Kalamandalam Babu Namboothiri,Deepa Palanad,423.3009297052154,824.115125,0.5136429569900387,0.0008087343307723412,2,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,114,181,Kalamandalam Madambi Subramanian Namboothiri,,831.3902040816326,1043.5436961451246,0.7966989855363105,0.0008077544426494346,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,379,Kottakkal Narayanan,Kalamandalam Gangadharan,1033.9879818594104,850.5679138321996,0.8226090909708947,0.0008051529790660225,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,379,381,Kalamandalam Gangadharan,Kalamandalam Babu Namboothiri,850.5679138321996,423.3009297052154,0.4976685845084963,0.0007920792079207921,2,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,230,273,Kalamandalam Gangadharan,Kottakkal Narayanan,813.3101587301587,1305.4456235827665,0.6230134323772499,0.0007919746568109821,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,107,142,Kalamandalam Sankaran Embranthiri,Kalamandalam Unnikrishna Kurup,968.7608843537415,1004.7306349206349,0.9641996080175911,0.0007859575582918522,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,385,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,316.7744217687075,982.4314965986395,0.32243919587822606,0.0007739938080495357,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,366,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,316.7744217687075,999.2427664399092,0.3170144757687942,0.0007736943907156673,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,378,403,Kalamandalam Venmani Haridas,Deepa Palanad,1914.3036734693878,2047.659125,0.9348741937061364,0.0007642338555598013,6,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,057,060,Kalamandalam Jayaprakash,Kalamandalam Babu Namboothiri,707.4233333333333,1308.4880272108844,0.5406418084246791,0.0007591093117408907,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,181,185,,Kalamandalam Madambi Subramanian Namboothiri,1043.5436961451246,1611.9490702947846,0.6473800663902408,0.0007582938388625592,4,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,567,572,Kalamandalam Tirur Nambissan,Kottakkal P.D Namboothiri,603.5342403628118,775.7783446712018,0.7779725285043988,0.0007555723460521345,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,394,Kalamandalam Hyderali,Deepa Palanad,680.777641723356,1333.2625,0.5106103574677575,0.0007541478129713424,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,146,153,Kottakkal Parameswaran Namboothiri,Kalamandalam Unnikrishna Kurup,843.4598412698413,579.5221768707484,0.6870773788094868,0.0007288629737609329,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,337,338,Kalamandalam Unnikrishna Kurup,Deepa Palanad,1059.3050340136053,1041.3273333333334,0.9830287782055032,0.0007258649891120251,3,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,554,556,Kalanilayam Unnikrishnan,Kalamandalam Unnikrishna Kurup,660.1402040816326,759.172,0.8695528866734187,0.000719165767709457,2,0,screen_below_threshold
+kuchela_vritham__danavari,546,606,Kalamandalam Sankaran Embranthiri,Kottakkal Narayanan,545.2016780045351,897.5713378684808,0.6074187699656942,0.0007062146892655367,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,377,Kalamandalam Rajendran,Kottakkal Narayanan,678.024,795.9158049886621,0.8518790502089081,0.0006993006993006993,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,381,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,316.7744217687075,423.3009297052154,0.748343316867524,0.0006825938566552901,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,150,153,Kalamandalam Vinod,Kalamandalam Unnikrishna Kurup,972.5976875,579.5221768707484,0.5958498404004774,0.0006765899864682003,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,356,403,Kottakkal Narayanan,Deepa Palanad,1783.85325,2047.659125,0.8711670942789367,0.0006714113065664026,5,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,057,062,Kalamandalam Jayaprakash,Kalamandalam Unnikrishna Kurup,707.4233333333333,836.3245351473923,0.8458717921131637,0.0006662225183211193,2,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,289,Kalamandalam Unnikrishna Kurup,Kalamandalam Unnikrishna Kurup,1187.251156462585,1149.8136507936508,0.9684670716342116,0.00065775049331287,3,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,314,Kalamandalam Unnikrishna Kurup,Kalamandalam Vinod,1187.251156462585,1205.7415,0.984664753151969,0.0006364022061943148,3,0,screen_below_threshold
+santhana_gopalam__vidhimatham,223,226,Kottakkal P.D Namboothiri,Kalamandalam Vinod,556.326462585034,245.7774149659864,0.44178630982958056,0.0006285355122564425,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,114,185,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Madambi Subramanian Namboothiri,831.3902040816326,1611.9490702947846,0.5157670421495342,0.0006194507536650836,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,055,146,Kalamandalam Hyderali,Kottakkal Parameswaran Namboothiri,825.3913832199546,843.4598412698413,0.9785781644059256,0.0006053268765133172,2,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,057,142,Kalamandalam Jayaprakash,Kalamandalam Unnikrishna Kurup,707.4233333333333,1004.7306349206349,0.7040925286300379,0.0006045949214026602,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,338,367,Deepa Palanad,Kottakkal Narayanan,1041.3273333333334,1549.0537868480726,0.6722344583348313,0.0005937067088858105,3,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,354,Kottakkal Narayanan,Kalamandalam Rajendran,1033.9879818594104,678.024,0.6557368285661465,0.0005908419497784342,2,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,555,596,Kalamandalam Unnikrishna Kurup,Kottakkal P.D Namboothiri,387.41816326530613,477.4938321995465,0.8113574189653671,0.0005837711617046118,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,385,421,Kottakkal Narayanan,,982.4314965986395,748.9475736961451,0.7623407599299706,0.0005817335660267597,2,0,screen_below_threshold
+santhana_gopalam__vidhimatham,208,223,Kalamandalam Babu Namboothiri,Kottakkal P.D Namboothiri,326.1839909297052,556.326462585034,0.5863175902401879,0.0005707762557077625,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,367,403,Kottakkal Narayanan,Deepa Palanad,1549.0537868480726,2047.659125,0.7564998333636574,0.0005675368898978433,4,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,062,142,Kalamandalam Unnikrishna Kurup,Kalamandalam Unnikrishna Kurup,836.3245351473923,1004.7306349206349,0.8323868170033999,0.0005652911249293386,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,366,Deepa Palanad,Kalamandalam Babu Namboothiri,864.072,999.2427664399092,0.864726800153386,0.0005534034311012728,2,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,568,Vellinezhi Haridas,Kottakkal Narayanan,448.8702083333333,472.53784580498865,0.9499137737183009,0.0005455537370430987,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,055,186,Kalamandalam Hyderali,Kalamandalam Madambi Subramanian Namboothiri,825.3913832199546,1018.0074376417233,0.8107911128154667,0.000545404963185165,2,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,596,Vellinezhi Haridas,Kottakkal P.D Namboothiri,448.8702083333333,477.4938321995465,0.9400544636684411,0.0005443658138268917,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,355,394,Kalamandalam Rajendran,Deepa Palanad,1461.996,1333.2625,0.9119467495123106,0.0005434782608695652,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,055,116,Kalamandalam Hyderali,Kalamandalam Babu Namboothiri,825.3913832199546,1043.27126984127,0.7911570145562764,0.0005415651232060655,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,367,Deepa Palanad,Kottakkal Narayanan,1399.6922448979592,1549.0537868480726,0.9035788536084174,0.0005220114842526536,3,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,558,Vellinezhi Haridas,Kottakkal Madhu,448.8702083333333,524.181875,0.8563253132957589,0.0005165289256198347,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,181,Kalamandalam Venmani Haridas,,1932.6032653061225,1043.5436961451246,0.5399678841895303,0.0005070993914807302,3,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,367,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,1530.0,1549.0537868480726,0.9876997254647676,0.0004985044865403788,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,120,142,Kottakkal Narayanan,Kalamandalam Unnikrishna Kurup,1059.999625,1004.7306349206349,0.9478594248753955,0.00049813200498132,2,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,289,303,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,1149.8136507936508,942.915918367347,0.8200597703084372,0.0004928536224741252,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,337,403,Kalamandalam Unnikrishna Kurup,Deepa Palanad,1059.3050340136053,2047.659125,0.517324891179632,0.0004894762604013706,3,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,558,614,Kottakkal Madhu,Kottakkal Narayanan,524.181875,530.7278458049886,0.9876660498281187,0.00047732696897374703,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,421,Kalamandalam Unnikrishna Kurup,,316.7744217687075,748.9475736961451,0.4229594071656954,0.000474158368895211,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,381,Kalamandalam Neelakandan Nambisan,Kalamandalam Babu Namboothiri,701.8496371882086,423.3009297052154,0.6031219612808644,0.00046490004649000463,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,060,107,Kalamandalam Babu Namboothiri,Kalamandalam Sankaran Embranthiri,1308.4880272108844,968.7608843537415,0.7403666401279266,0.00044812906116961686,2,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,556,593,Kalamandalam Unnikrishna Kurup,Kalamandalam Neelakandan Nambisan,759.172,389.7349886621315,0.5133684970759347,0.0004438526409232135,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,407,Kalamandalam Unnikrishna Kurup,Deepa Palanad,316.7744217687075,824.115125,0.3843812741195685,0.00044169611307420494,1,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,551,593,Kalamandalam P.G Radhakrishnan,Kalamandalam Neelakandan Nambisan,756.7276190476191,389.7349886621315,0.5150267795863367,0.0004415011037527594,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,367,378,Kottakkal Narayanan,Kalamandalam Venmani Haridas,1549.0537868480726,1914.3036734693878,0.8091996104466777,0.000441306266548985,3,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,115,Kalamandalam Venmani Haridas,Kalamandalam Babu Namboothiri,1932.6032653061225,1531.9421088435374,0.7926831835301071,0.0004377006127808579,3,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,289,314,Kalamandalam Unnikrishna Kurup,Kalamandalam Vinod,1149.8136507936508,1205.7415,0.9536153900265113,0.00043582479843103073,2,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,572,593,Kottakkal P.D Namboothiri,Kalamandalam Neelakandan Nambisan,775.7783446712018,389.7349886621315,0.5023793089085425,0.0004342162396873643,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,114,154,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Unnikrishna Kurup,831.3902040816326,1555.531,0.5344735682423768,0.00042799058420714745,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,407,Kalamandalam Hyderali,Deepa Palanad,360.078820861678,824.115125,0.4369278149841965,0.00042517006802721087,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,377,381,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,795.9158049886621,423.3009297052154,0.5318413418254024,0.00042517006802721087,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,337,394,Kalamandalam Unnikrishna Kurup,Deepa Palanad,1059.3050340136053,1333.2625,0.7945209844375022,0.00042399830400678397,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,364,Deepa Palanad,Kalamandalam Hyderali,864.072,360.078820861678,0.41672316758519895,0.00042158516020236085,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,337,Deepa Palanad,Kalamandalam Unnikrishna Kurup,1399.6922448979592,1059.3050340136053,0.7568128193000249,0.00041425020712510354,2,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,567,634,Kalamandalam Tirur Nambissan,Kottakkal P.D Namboothiri,603.5342403628118,658.7819501133787,0.9161365763875915,0.00041288191577208916,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,364,Kottakkal Narayanan,Kalamandalam Hyderali,903.8305,360.078820861678,0.39839197821016,0.0004035512510088781,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,337,355,Kalamandalam Unnikrishna Kurup,Kalamandalam Rajendran,1059.3050340136053,1461.996,0.7245608291771012,0.0004033884630899556,2,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,192,268,Kalamandalam Unnikrishna Kurup,Pathiyoor Shankarankutty,509.8721315192744,748.2670294784581,0.6814039793717159,0.0004008016032064128,1,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,567,591,Kalamandalam Tirur Nambissan,Kottakkal Madhu,603.5342403628118,700.776,0.861237029183094,0.00039872408293460925,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,115,181,Kalamandalam Babu Namboothiri,,1531.9421088435374,1043.5436961451246,0.681190033305433,0.00039323633503735744,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,337,Kalamandalam Unnikrishna Kurup,Kalamandalam Unnikrishna Kurup,1530.0,1059.3050340136053,0.6923562313814414,0.0003922337713277113,2,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,554,634,Kalanilayam Unnikrishnan,Kottakkal P.D Namboothiri,660.1402040816326,658.7819501133787,0.9979424765226297,0.0003837298541826554,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,393,Kalamandalam Neelakandan Nambisan,Kalamandalam Raveendran,701.8496371882086,662.3212698412699,0.9436797210506519,0.00038095238095238096,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,381,Deepa Palanad,Kalamandalam Babu Namboothiri,945.288,423.3009297052154,0.44780101906002767,0.0003773584905660377,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,393,Kalamandalam Rajendran,Kalamandalam Raveendran,678.024,662.3212698412699,0.9768404508413713,0.0003762227238525207,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,350,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,316.7744217687075,1033.9879818594104,0.3063618023867697,0.0003749531308586427,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,385,Kalamandalam Hyderali,Kottakkal Narayanan,360.078820861678,982.4314965986395,0.36651799347673386,0.0003741114852225963,1,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,591,634,Kottakkal Madhu,Kottakkal P.D Namboothiri,700.776,658.7819501133787,0.9400749313808959,0.0003707823507601038,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,338,356,Deepa Palanad,Kottakkal Narayanan,1041.3273333333334,1783.85325,0.5837516809935646,0.0003667033370003667,2,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,114,Kalamandalam Venmani Haridas,Kalamandalam Madambi Subramanian Namboothiri,1932.6032653061225,831.3902040816326,0.4301918655559869,0.00036469730123997083,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,381,385,Kalamandalam Babu Namboothiri,Kottakkal Narayanan,423.3009297052154,982.4314965986395,0.4308706827608459,0.00035778175313059033,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,377,393,Kottakkal Narayanan,Kalamandalam Raveendran,795.9158049886621,662.3212698412699,0.8321499154683889,0.00035385704175513094,1,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,572,634,Kottakkal P.D Namboothiri,Kottakkal P.D Namboothiri,775.7783446712018,658.7819501133787,0.8491883727336966,0.00035248501938667606,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,407,Kalamandalam Rajendran,Deepa Palanad,678.024,824.115125,0.822729712672122,0.00033523298692591353,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,115,154,Kalamandalam Babu Namboothiri,Kalamandalam Unnikrishna Kurup,1531.9421088435374,1555.531,0.9848354734451049,0.00033090668431502316,2,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,242,298,Kottakkal Narayanan,Kalamandalam Tirur Nambissan,1028.304,524.016,0.5095924940484525,0.00032615786040443573,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,393,Kottakkal Narayanan,Kalamandalam Raveendran,903.8305,662.3212698412699,0.7327936707615752,0.00032530904359141186,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,115,185,Kalamandalam Babu Namboothiri,Kalamandalam Madambi Subramanian Namboothiri,1531.9421088435374,1611.9490702947846,0.9503663217866952,0.00032180209171359613,2,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,356,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,1530.0,1783.85325,0.8576938713988945,0.0003115750116840629,2,0,screen_below_threshold
+kuchela_vritham__danavari,559,581,Kalamandalam Neelakandan Nambisan,Kottakkal Narayanan,952.5239455782313,699.2840362811792,0.7341380125165017,0.00031026993484331366,1,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,268,270,Pathiyoor Shankarankutty,Kottakkal Narayanan,748.2670294784581,977.442358276644,0.7655357097453283,0.00030395136778115504,1,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,393,Kottakkal Narayanan,Kalamandalam Raveendran,1033.9879818594104,662.3212698412699,0.6405502592498455,0.0002984183825723665,1,0,screen_below_threshold
+kuchela_vritham__danavari,559,588,Kalamandalam Neelakandan Nambisan,Kalamandalam Babu Namboothiri,952.5239455782313,761.887641723356,0.7998619302539957,0.00029726516052318666,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,293,303,Kalamandalam Subramanian,Kalamandalam Babu Namboothiri,806.1562358276644,942.915918367347,0.8549608932507141,0.0002958579881656805,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,056,146,Kalamandalam Unnikrishna Kurup,Kottakkal Parameswaran Namboothiri,882.6626077097505,843.4598412698413,0.9555857854433996,0.0002936857562408223,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,062,064,Kalamandalam Unnikrishna Kurup,Pathiyoor Shankarankutty,836.3245351473923,898.031746031746,0.931286158694247,0.0002936857562408223,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,218,231,Kalamandalam Tirur Nambissan,Kalamandalam Madambi Subramanian Namboothiri,905.8568707482993,1294.6190476190477,0.6997092097588659,0.0002909514111143439,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,355,403,Kalamandalam Rajendran,Deepa Palanad,1461.996,2047.659125,0.7139840719338479,0.00028843380444188056,2,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,366,407,Kalamandalam Babu Namboothiri,Deepa Palanad,999.2427664399092,824.115125,0.8247396455379387,0.0002781641168289291,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,150,157,Kalamandalam Vinod,Kalamandalam Venmani Haridas,972.5976875,888.0882993197279,0.9131096143180248,0.00027412280701754384,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,146,186,Kottakkal Parameswaran Namboothiri,Kalamandalam Madambi Subramanian Namboothiri,843.4598412698413,1018.0074376417233,0.8285399596134265,0.00027100271002710027,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,116,146,Kalamandalam Babu Namboothiri,Kottakkal Parameswaran Namboothiri,1043.27126984127,843.4598412698413,0.8084760557032983,0.00026910656620021526,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,230,Kalamandalam Unnikrishna Kurup,Kalamandalam Gangadharan,1187.251156462585,813.3101587301587,0.68503631628662,0.0002690341673392521,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,230,314,Kalamandalam Gangadharan,Kalamandalam Vinod,813.3101587301587,1205.7415,0.6745311152764989,0.0002670940170940171,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,064,118,Pathiyoor Shankarankutty,Kalamandalam Tirur Nambissan,898.031746031746,1042.915328798186,0.8610782881737887,0.0002636435539151068,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,107,120,Kalamandalam Sankaran Embranthiri,Kottakkal Narayanan,968.7608843537415,1059.999625,0.9139256859206357,0.0002506265664160401,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,218,Kalamandalam Unnikrishna Kurup,Kalamandalam Tirur Nambissan,1187.251156462585,905.8568707482993,0.762986724264224,0.00024937655860349125,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,325,Deepa Palanad,Kalamandalam Hyderali,1399.6922448979592,680.777641723356,0.48637666187325795,0.0002444390124663896,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,273,303,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,1305.4456235827665,942.915918367347,0.7222942888877556,0.00023485204321277596,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,367,Kalamandalam Hyderali,Kottakkal Narayanan,680.777641723356,1549.0537868480726,0.4394796665573273,0.00023057412958266084,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,273,314,Kottakkal Narayanan,Kalamandalam Vinod,1305.4456235827665,1205.7415,0.9236244529977965,0.00020881186051367718,1,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,204,Kalamandalam Unnikrishna Kurup,Kottakkal P.D Namboothiri,1187.251156462585,1378.7460997732426,0.8611093490366702,0.00020238818053025704,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,403,Kalamandalam Hyderali,Deepa Palanad,680.777641723356,2047.659125,0.33246629451733384,0.00018542555164101615,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,115,180,Kalamandalam Babu Namboothiri,Kalamandalam Babu Namboothiri,1531.9421088435374,1318.3975,0.8606053011985276,0.00017777777777777779,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,324,355,Deepa Palanad,Kalamandalam Rajendran,1399.6922448979592,1461.996,0.9573844558384285,0.00017752529735487306,1,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,394,Kalamandalam Unnikrishna Kurup,Deepa Palanad,1530.0,1333.2625,0.8714133986928105,0.0001765848490199541,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,115,155,Kalamandalam Babu Namboothiri,Kalamandalam Venmani Haridas,1531.9421088435374,1669.177732426304,0.9177824979828351,0.00015792798483891344,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,155,185,Kalamandalam Venmani Haridas,Kalamandalam Madambi Subramanian Namboothiri,1669.177732426304,1611.9490702947846,0.9657144586704184,0.00015330369461904033,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,154,Kalamandalam Venmani Haridas,Kalamandalam Unnikrishna Kurup,1932.6032653061225,1555.531,0.8048889432842831,0.00014543339150668993,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,155,Kalamandalam Venmani Haridas,Kalamandalam Venmani Haridas,1932.6032653061225,1669.177732426304,0.8636939419441102,0.00013960631020522128,1,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,057,Kalamandalam Venmani Haridas,Kalamandalam Jayaprakash,727.1531292517006,707.4233333333333,0.9728670686755196,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,060,Kalamandalam Venmani Haridas,Kalamandalam Babu Namboothiri,727.1531292517006,1308.4880272108844,0.5557201243955349,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,062,Kalamandalam Venmani Haridas,Kalamandalam Unnikrishna Kurup,727.1531292517006,836.3245351473923,0.8694628684109434,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,064,Kalamandalam Venmani Haridas,Pathiyoor Shankarankutty,727.1531292517006,898.031746031746,0.8097187348497091,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,107,Kalamandalam Venmani Haridas,Kalamandalam Sankaran Embranthiri,727.1531292517006,968.7608843537415,0.7506012484564579,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,118,Kalamandalam Venmani Haridas,Kalamandalam Tirur Nambissan,727.1531292517006,1042.915328798186,0.6972312221066335,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,120,Kalamandalam Venmani Haridas,Kottakkal Narayanan,727.1531292517006,1059.999625,0.6859937608484538,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,054,142,Kalamandalam Venmani Haridas,Kalamandalam Unnikrishna Kurup,727.1531292517006,1004.7306349206349,0.7237294295392313,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,055,157,Kalamandalam Hyderali,Kalamandalam Venmani Haridas,825.3913832199546,888.0882993197279,0.9294023847090443,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,056,150,Kalamandalam Unnikrishna Kurup,Kalamandalam Vinod,882.6626077097505,972.5976875,0.907531057346618,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,056,157,Kalamandalam Unnikrishna Kurup,Kalamandalam Venmani Haridas,882.6626077097505,888.0882993197279,0.9938905944215982,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,057,064,Kalamandalam Jayaprakash,Pathiyoor Shankarankutty,707.4233333333333,898.031746031746,0.7877486920248868,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,060,064,Kalamandalam Babu Namboothiri,Pathiyoor Shankarankutty,1308.4880272108844,898.031746031746,0.6863125434521178,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,064,107,Pathiyoor Shankarankutty,Kalamandalam Sankaran Embranthiri,898.031746031746,968.7608843537415,0.9269900968708302,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,064,120,Pathiyoor Shankarankutty,Kottakkal Narayanan,898.031746031746,1059.999625,0.84720006012431,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,064,142,Pathiyoor Shankarankutty,Kalamandalam Unnikrishna Kurup,898.031746031746,1004.7306349206349,0.8938034880390433,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,083,094,Kalamandalam Venmani Haridas,Kalamandalam Venmani Haridas,250.01900226757368,261.7991156462585,0.9550032346381108,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,083,100,Kalamandalam Venmani Haridas,Kalamandalam Unnikrishna Kurup,250.01900226757368,300.86095238095237,0.8310118022593964,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,083,104,Kalamandalam Venmani Haridas,Kottakkal Madhu,250.01900226757368,285.17825,0.8767113279767083,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,083,105,Kalamandalam Venmani Haridas,Kottakkal P.D Namboothiri,250.01900226757368,356.31718820861676,0.7016753907509857,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,083,141,Kalamandalam Venmani Haridas,Kottakkal Narayanan,250.01900226757368,346.8607029478458,0.7208052112642079,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,083,148,Kalamandalam Venmani Haridas,Athippatta Raveendran,250.01900226757368,285.54272108843537,0.8755922802533648,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,083,183,Kalamandalam Venmani Haridas,Kalamandalam Babu Namboothiri,250.01900226757368,307.704,0.812530881196129,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,147,Kalamandalam Venmani Haridas,Kalamandalam Neelakandan Nambisan,1932.6032653061225,1408.48,0.7287993481563834,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,084,180,Kalamandalam Venmani Haridas,Kalamandalam Babu Namboothiri,1932.6032653061225,1318.3975,0.6821873499169355,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,094,100,Kalamandalam Venmani Haridas,Kalamandalam Unnikrishna Kurup,261.7991156462585,300.86095238095237,0.870166479147372,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,094,104,Kalamandalam Venmani Haridas,Kottakkal Madhu,261.7991156462585,285.17825,0.9180192235777395,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,094,105,Kalamandalam Venmani Haridas,Kottakkal P.D Namboothiri,261.7991156462585,356.31718820861676,0.7347361404664549,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,094,141,Kalamandalam Venmani Haridas,Kottakkal Narayanan,261.7991156462585,346.8607029478458,0.7547672982881048,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,094,148,Kalamandalam Venmani Haridas,Athippatta Raveendran,261.7991156462585,285.54272108843537,0.9168474498258239,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,094,183,Kalamandalam Venmani Haridas,Kalamandalam Babu Namboothiri,261.7991156462585,307.704,0.8508147948881343,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,100,104,Kalamandalam Unnikrishna Kurup,Kottakkal Madhu,300.86095238095237,285.17825,0.947873918975385,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,100,105,Kalamandalam Unnikrishna Kurup,Kottakkal P.D Namboothiri,300.86095238095237,356.31718820861676,0.8443627260686738,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,100,141,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,300.86095238095237,346.8607029478458,0.8673826404203245,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,100,148,Kalamandalam Unnikrishna Kurup,Athippatta Raveendran,300.86095238095237,285.54272108843537,0.9490853460002315,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,100,183,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,300.86095238095237,307.704,0.9777609403223629,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,104,105,Kottakkal Madhu,Kottakkal P.D Namboothiri,285.17825,356.31718820861676,0.8003494061954533,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,104,183,Kottakkal Madhu,Kalamandalam Babu Namboothiri,285.17825,307.704,0.9267940943244156,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,105,141,Kottakkal P.D Namboothiri,Kottakkal Narayanan,356.31718820861676,346.8607029478458,0.9734604852819103,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,105,148,Kottakkal P.D Namboothiri,Athippatta Raveendran,356.31718820861676,285.54272108843537,0.8013722900205861,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,105,183,Kottakkal P.D Namboothiri,Kalamandalam Babu Namboothiri,356.31718820861676,307.704,0.8635676587676857,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,114,147,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Neelakandan Nambisan,831.3902040816326,1408.48,0.5902747671828018,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,114,155,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Venmani Haridas,831.3902040816326,1669.177732426304,0.4980836899094803,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,114,180,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Babu Namboothiri,831.3902040816326,1318.3975,0.6306066297013099,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,115,147,Kalamandalam Babu Namboothiri,Kalamandalam Neelakandan Nambisan,1531.9421088435374,1408.48,0.9194081107041708,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,116,153,Kalamandalam Babu Namboothiri,Kalamandalam Unnikrishna Kurup,1043.27126984127,579.5221768707484,0.5554856091828548,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,116,157,Kalamandalam Babu Namboothiri,Kalamandalam Venmani Haridas,1043.27126984127,888.0882993197279,0.8512534802715763,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,116,186,Kalamandalam Babu Namboothiri,Kalamandalam Madambi Subramanian Namboothiri,1043.27126984127,1018.0074376417233,0.9757840238393698,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__mariman_kanni,118,142,Kalamandalam Tirur Nambissan,Kalamandalam Unnikrishna Kurup,1042.915328798186,1004.7306349206349,0.9633865829534276,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,141,148,Kottakkal Narayanan,Athippatta Raveendran,346.8607029478458,285.54272108843537,0.8232201533979182,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,141,183,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,346.8607029478458,307.704,0.8871111584129683,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,146,150,Kottakkal Parameswaran Namboothiri,Kalamandalam Vinod,843.4598412698413,972.5976875,0.8672237782488469,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,146,157,Kottakkal Parameswaran Namboothiri,Kalamandalam Venmani Haridas,843.4598412698413,888.0882993197279,0.9497477243151702,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,147,180,Kalamandalam Neelakandan Nambisan,Kalamandalam Babu Namboothiri,1408.48,1318.3975,0.9360427553106896,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,147,181,Kalamandalam Neelakandan Nambisan,,1408.48,1043.5436961451246,0.740900613530277,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,147,185,Kalamandalam Neelakandan Nambisan,Kalamandalam Madambi Subramanian Namboothiri,1408.48,1611.9490702947846,0.8737745043907775,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__swaira_vachanam,148,183,Athippatta Raveendran,Kalamandalam Babu Namboothiri,285.54272108843537,307.704,0.9279785803513616,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,150,186,Kalamandalam Vinod,Kalamandalam Madambi Subramanian Namboothiri,972.5976875,1018.0074376417233,0.9553934986497566,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,153,157,Kalamandalam Unnikrishna Kurup,Kalamandalam Venmani Haridas,579.5221768707484,888.0882993197279,0.6525501769527423,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,154,181,Kalamandalam Unnikrishna Kurup,,1555.531,1043.5436961451246,0.670860108956443,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,155,181,Kalamandalam Venmani Haridas,,1669.177732426304,1043.5436961451246,0.625184290368071,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__ghora_vipinam,157,186,Kalamandalam Venmani Haridas,Kalamandalam Madambi Subramanian Namboothiri,888.0882993197279,1018.0074376417233,0.8723789890740277,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,180,181,Kalamandalam Babu Namboothiri,,1318.3975,1043.5436961451246,0.7915243286983816,0.0,0,0,screen_below_threshold
+nalacharitham_moonam_divasam__lokapalanmaare,180,185,Kalamandalam Babu Namboothiri,Kalamandalam Madambi Subramanian Namboothiri,1318.3975,1611.9490702947846,0.8178902946101756,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,192,242,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,509.8721315192744,1028.304,0.4958379346178507,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,192,244,Kalamandalam Unnikrishna Kurup,Kalamandalam Madambi Subramanian Namboothiri,509.8721315192744,913.6154195011338,0.5580817931002987,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,192,270,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,509.8721315192744,977.442358276644,0.5216390789716175,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,192,298,Kalamandalam Unnikrishna Kurup,Kalamandalam Tirur Nambissan,509.8721315192744,524.016,0.9730087087403332,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,192,299,Kalamandalam Unnikrishna Kurup,,509.8721315192744,561.96,0.907310362871511,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,192,306,Kalamandalam Unnikrishna Kurup,Kalamandalam Raveendran,509.8721315192744,417.30510204081634,0.8184505020844451,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,231,Kalamandalam Unnikrishna Kurup,Kalamandalam Madambi Subramanian Namboothiri,1187.251156462585,1294.6190476190477,0.9170660347119683,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,273,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,1187.251156462585,1305.4456235827665,0.9094604440161977,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,194,303,Kalamandalam Unnikrishna Kurup,Kalamandalam Babu Namboothiri,1187.251156462585,942.915918367347,0.7942008843156364,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,203,208,Kalamandalam Venmani Haridas,Kalamandalam Babu Namboothiri,185.30004535147393,326.1839909297052,0.5680844262875161,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,203,223,Kalamandalam Venmani Haridas,Kottakkal P.D Namboothiri,185.30004535147393,556.326462585034,0.33307789187387604,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,203,226,Kalamandalam Venmani Haridas,Kalamandalam Vinod,185.30004535147393,245.7774149659864,0.7539343896879945,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,203,252,Kalamandalam Venmani Haridas,Palanad Divakaran,185.30004535147393,323.3778684807256,0.5730139982121826,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,203,278,Kalamandalam Venmani Haridas,Kalamandalam Unnikrishna Kurup,185.30004535147393,261.9650566893424,0.707346421287082,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,203,294,Kalamandalam Venmani Haridas,Kalamandalam Subramanian,185.30004535147393,176.3783446712018,0.951852679456448,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,204,231,Kottakkal P.D Namboothiri,Kalamandalam Madambi Subramanian Namboothiri,1378.7460997732426,1294.6190476190477,0.9389829264662791,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,208,252,Kalamandalam Babu Namboothiri,Palanad Divakaran,326.1839909297052,323.3778684807256,0.9913971178015775,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,208,278,Kalamandalam Babu Namboothiri,Kalamandalam Unnikrishna Kurup,326.1839909297052,261.9650566893424,0.8031205208528999,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,208,294,Kalamandalam Babu Namboothiri,Kalamandalam Subramanian,326.1839909297052,176.3783446712018,0.5407326833192513,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,218,230,Kalamandalam Tirur Nambissan,Kalamandalam Gangadharan,905.8568707482993,813.3101587301587,0.8978351713094689,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,218,303,Kalamandalam Tirur Nambissan,Kalamandalam Babu Namboothiri,905.8568707482993,942.915918367347,0.9606973995271867,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,218,314,Kalamandalam Tirur Nambissan,Kalamandalam Vinod,905.8568707482993,1205.7415,0.7512861345058616,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,223,252,Kottakkal P.D Namboothiri,Palanad Divakaran,556.326462585034,323.3778684807256,0.5812735690804886,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,223,278,Kottakkal P.D Namboothiri,Kalamandalam Unnikrishna Kurup,556.326462585034,261.9650566893424,0.4708836884589168,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,223,294,Kottakkal P.D Namboothiri,Kalamandalam Subramanian,556.326462585034,176.3783446712018,0.317041083847854,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,223,302,Kottakkal P.D Namboothiri,Kalamandalam Harish Namboothiri,556.326462585034,333.41525,0.5993158197989508,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,226,252,Kalamandalam Vinod,Palanad Divakaran,245.7774149659864,323.3778684807256,0.7600316500343175,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,226,278,Kalamandalam Vinod,Kalamandalam Unnikrishna Kurup,245.7774149659864,261.9650566893424,0.9382068664884854,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,226,294,Kalamandalam Vinod,Kalamandalam Subramanian,245.7774149659864,176.3783446712018,0.7176344689588795,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,226,302,Kalamandalam Vinod,Kalamandalam Harish Namboothiri,245.7774149659864,333.41525,0.7371510900175874,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,230,231,Kalamandalam Gangadharan,Kalamandalam Madambi Subramanian Namboothiri,813.3101587301587,1294.6190476190477,0.6282235382106643,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,230,303,Kalamandalam Gangadharan,Kalamandalam Babu Namboothiri,813.3101587301587,942.915918367347,0.8625479142810529,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,231,273,Kalamandalam Madambi Subramanian Namboothiri,Kottakkal Narayanan,1294.6190476190477,1305.4456235827665,0.9917066051866599,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,231,289,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Unnikrishna Kurup,1294.6190476190477,1149.8136507936508,0.8881482571326982,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,231,293,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Subramanian,1294.6190476190477,806.1562358276644,0.6226976478604095,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,231,303,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Babu Namboothiri,1294.6190476190477,942.915918367347,0.7283346557440794,0.0,0,0,screen_below_threshold
+santhana_gopalam__ha_ha_karomi,231,314,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Vinod,1294.6190476190477,1205.7415,0.9313484937654026,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,242,244,Kottakkal Narayanan,Kalamandalam Madambi Subramanian Namboothiri,1028.304,913.6154195011338,0.8884682151398164,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,242,270,Kottakkal Narayanan,Kottakkal Narayanan,1028.304,977.442358276644,0.9505383216214698,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,242,306,Kottakkal Narayanan,Kalamandalam Raveendran,1028.304,417.30510204081634,0.4058188065404942,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,244,268,Kalamandalam Madambi Subramanian Namboothiri,Pathiyoor Shankarankutty,913.6154195011338,748.2670294784581,0.8190175138320653,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,244,270,Kalamandalam Madambi Subramanian Namboothiri,Kottakkal Narayanan,913.6154195011338,977.442358276644,0.9347000483097078,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,244,298,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Tirur Nambissan,913.6154195011338,524.016,0.5735629990637977,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,244,299,Kalamandalam Madambi Subramanian Namboothiri,,913.6154195011338,561.96,0.6150946974021629,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,244,306,Kalamandalam Madambi Subramanian Namboothiri,Kalamandalam Raveendran,913.6154195011338,417.30510204081634,0.4567623237671269,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,252,278,Palanad Divakaran,Kalamandalam Unnikrishna Kurup,323.3778684807256,261.9650566893424,0.8100896264796686,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,252,294,Palanad Divakaran,Kalamandalam Subramanian,323.3778684807256,176.3783446712018,0.5454249095643183,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,252,302,Palanad Divakaran,Kalamandalam Harish Namboothiri,323.3778684807256,333.41525,0.9698952536835841,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,268,298,Pathiyoor Shankarankutty,Kalamandalam Tirur Nambissan,748.2670294784581,524.016,0.7003061465440205,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,268,306,Pathiyoor Shankarankutty,Kalamandalam Raveendran,748.2670294784581,417.30510204081634,0.5576954290391197,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,270,306,Kottakkal Narayanan,Kalamandalam Raveendran,977.442358276644,417.30510204081634,0.4269357660911879,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,278,294,Kalamandalam Unnikrishna Kurup,Kalamandalam Subramanian,261.9650566893424,176.3783446712018,0.6732895864060385,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,278,302,Kalamandalam Unnikrishna Kurup,Kalamandalam Harish Namboothiri,261.9650566893424,333.41525,0.7857020837809381,0.0,0,0,screen_below_threshold
+santhana_gopalam__vidhimatham,294,302,Kalamandalam Subramanian,Kalamandalam Harish Namboothiri,176.3783446712018,333.41525,0.5290050310272304,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,298,299,Kalamandalam Tirur Nambissan,,524.016,561.96,0.9324791800128122,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,298,306,Kalamandalam Tirur Nambissan,Kalamandalam Raveendran,524.016,417.30510204081634,0.7963594662010632,0.0,0,0,screen_below_threshold
+santhana_gopalam__sreeman_sakhe,299,306,,Kalamandalam Raveendran,561.96,417.30510204081634,0.7425886220386083,0.0,0,0,screen_below_threshold
+keechaka_vadham__harinakshi,325,334,Kalamandalam Hyderali,Kalamandalam Unnikrishna Kurup,680.777641723356,1530.0,0.44495270700872946,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,335,Deepa Palanad,Kalamandalam Neelakandan Nambisan,945.288,701.8496371882086,0.7424717516653216,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,336,Deepa Palanad,Kalamandalam Unnikrishna Kurup,945.288,316.7744217687075,0.3351088999000384,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,348,Deepa Palanad,Deepa Palanad,945.288,864.072,0.9140833269860614,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,350,Deepa Palanad,Kottakkal Narayanan,945.288,1033.9879818594104,0.9142156549054834,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,354,Deepa Palanad,Kalamandalam Rajendran,945.288,678.024,0.717267118592429,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,364,Deepa Palanad,Kalamandalam Hyderali,945.288,360.078820861678,0.38091969945844867,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,366,Deepa Palanad,Kalamandalam Babu Namboothiri,945.288,999.2427664399092,0.9460043462389639,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,377,Deepa Palanad,Kottakkal Narayanan,945.288,795.9158049886621,0.8419823429353405,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,379,Deepa Palanad,Kalamandalam Gangadharan,945.288,850.5679138321996,0.899797642445688,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,385,Deepa Palanad,Kottakkal Narayanan,945.288,982.4314965986395,0.9621922783143282,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,393,Deepa Palanad,Kalamandalam Raveendran,945.288,662.3212698412699,0.7006555354995196,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,332,407,Deepa Palanad,Deepa Palanad,945.288,824.115125,0.8718138017196876,0.0,0,0,screen_below_threshold
+keechaka_vadham__harinakshi,334,355,Kalamandalam Unnikrishna Kurup,Kalamandalam Rajendran,1530.0,1461.996,0.9555529411764706,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,354,Kalamandalam Neelakandan Nambisan,Kalamandalam Rajendran,701.8496371882086,678.024,0.9660530747245802,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,335,364,Kalamandalam Neelakandan Nambisan,Kalamandalam Hyderali,701.8496371882086,360.078820861678,0.513042682908902,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,348,Kalamandalam Unnikrishna Kurup,Deepa Palanad,316.7744217687075,864.072,0.3666065116896595,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,354,Kalamandalam Unnikrishna Kurup,Kalamandalam Rajendran,316.7744217687075,678.024,0.4672023730261871,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,364,Kalamandalam Unnikrishna Kurup,Kalamandalam Hyderali,316.7744217687075,360.078820861678,0.8797363338689513,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,336,393,Kalamandalam Unnikrishna Kurup,Kalamandalam Raveendran,316.7744217687075,662.3212698412699,0.47827910138628765,0.0,0,0,screen_below_threshold
+keechaka_vadham__harinakshi,338,355,Deepa Palanad,Kalamandalam Rajendran,1041.3273333333334,1461.996,0.712264146641532,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,350,Deepa Palanad,Kottakkal Narayanan,864.072,1033.9879818594104,0.8356692874187452,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,357,Deepa Palanad,Kottakkal Narayanan,864.072,903.8305,0.9560111104902965,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,379,Deepa Palanad,Kalamandalam Gangadharan,864.072,850.5679138321996,0.9843715730080359,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,381,Deepa Palanad,Kalamandalam Babu Namboothiri,864.072,423.3009297052154,0.4898908073693111,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,348,385,Deepa Palanad,Kottakkal Narayanan,864.072,982.4314965986395,0.8795239189618593,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,350,381,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,1033.9879818594104,423.3009297052154,0.409386701907306,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,357,Kalamandalam Rajendran,Kottakkal Narayanan,678.024,903.8305,0.7501672050235083,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,364,Kalamandalam Rajendran,Kalamandalam Hyderali,678.024,360.078820861678,0.5310709073154903,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,366,Kalamandalam Rajendran,Kalamandalam Babu Namboothiri,678.024,999.2427664399092,0.6785378116027362,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,379,Kalamandalam Rajendran,Kalamandalam Gangadharan,678.024,850.5679138321996,0.7971426960431532,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,385,Kalamandalam Rajendran,Kottakkal Narayanan,678.024,982.4314965986395,0.6901488829984026,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,354,421,Kalamandalam Rajendran,,678.024,748.9475736961451,0.9053023520109307,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,357,381,Kottakkal Narayanan,Kalamandalam Babu Namboothiri,903.8305,423.3009297052154,0.4683410547721231,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,379,Kalamandalam Hyderali,Kalamandalam Gangadharan,360.078820861678,850.5679138321996,0.4233392948475535,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,381,Kalamandalam Hyderali,Kalamandalam Babu Namboothiri,360.078820861678,423.3009297052154,0.8506450035733091,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,364,393,Kalamandalam Hyderali,Kalamandalam Raveendran,360.078820861678,662.3212698412699,0.5436618711459674,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,366,381,Kalamandalam Babu Namboothiri,Kalamandalam Babu Namboothiri,999.2427664399092,423.3009297052154,0.42362171028102324,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,366,393,Kalamandalam Babu Namboothiri,Kalamandalam Raveendran,999.2427664399092,662.3212698412699,0.6628231817989342,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,379,393,Kalamandalam Gangadharan,Kalamandalam Raveendran,850.5679138321996,662.3212698412699,0.7786812305877,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,381,393,Kalamandalam Babu Namboothiri,Kalamandalam Raveendran,423.3009297052154,662.3212698412699,0.6391172214757086,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,385,393,Kottakkal Narayanan,Kalamandalam Raveendran,982.4314965986395,662.3212698412699,0.6741653460158283,0.0,0,0,screen_below_threshold
+keechaka_vadham__kandivar_kuzhali,393,421,Kalamandalam Raveendran,,662.3212698412699,748.9475736961451,0.8843359576861113,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,546,559,Kalamandalam Sankaran Embranthiri,Kalamandalam Neelakandan Nambisan,545.2016780045351,952.5239455782313,0.5723758237632225,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,546,636,Kalamandalam Sankaran Embranthiri,Kottakkal P.D Namboothiri,545.2016780045351,491.4154195011338,0.9013461244281902,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,551,591,Kalamandalam P.G Radhakrishnan,Kottakkal Madhu,756.7276190476191,700.776,0.9260610850730714,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,551,634,Kalamandalam P.G Radhakrishnan,Kottakkal P.D Namboothiri,756.7276190476191,658.7819501133787,0.8705668110045857,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,555,Vellinezhi Haridas,Kalamandalam Unnikrishna Kurup,448.8702083333333,387.41816326530613,0.8630961825330306,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,576,Vellinezhi Haridas,Kalamandalam Venmani Haridas,448.8702083333333,475.97430839002266,0.943055539807666,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,585,Vellinezhi Haridas,Kottakkal Narayanan,448.8702083333333,536.101125,0.8372864510092817,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,614,Vellinezhi Haridas,Kottakkal Narayanan,448.8702083333333,530.7278458049886,0.8457634395506484,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,553,635,Vellinezhi Haridas,Kottakkal P.D Namboothiri,448.8702083333333,380.502,0.8476882469273551,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,554,567,Kalanilayam Unnikrishnan,Kalamandalam Tirur Nambissan,660.1402040816326,603.5342403628118,0.9142516038731964,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,554,591,Kalanilayam Unnikrishnan,Kottakkal Madhu,660.1402040816326,700.776,0.9420131455438439,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,554,593,Kalanilayam Unnikrishnan,Kalamandalam Neelakandan Nambisan,660.1402040816326,389.7349886621315,0.5903821434483288,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,555,558,Kalamandalam Unnikrishna Kurup,Kottakkal Madhu,387.41816326530613,524.181875,0.7390911089119709,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,555,576,Kalamandalam Unnikrishna Kurup,Kalamandalam Venmani Haridas,387.41816326530613,475.97430839002266,0.8139476363246231,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,555,585,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,387.41816326530613,536.101125,0.7226587395527404,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,555,614,Kalamandalam Unnikrishna Kurup,Kottakkal Narayanan,387.41816326530613,530.7278458049886,0.7299751960021702,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,555,635,Kalamandalam Unnikrishna Kurup,Kottakkal P.D Namboothiri,387.41816326530613,380.502,0.9821480665567817,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,556,591,Kalamandalam Unnikrishna Kurup,Kottakkal Madhu,759.172,700.776,0.9230793548761018,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,556,634,Kalamandalam Unnikrishna Kurup,Kottakkal P.D Namboothiri,759.172,658.7819501133787,0.867763761194273,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,558,568,Kottakkal Madhu,Kottakkal Narayanan,524.181875,472.53784580498865,0.901476888732539,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,558,576,Kottakkal Madhu,Kalamandalam Venmani Haridas,524.181875,475.97430839002266,0.9080327479656229,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,558,585,Kottakkal Madhu,Kottakkal Narayanan,524.181875,536.101125,0.9777667879357649,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,558,596,Kottakkal Madhu,Kottakkal P.D Namboothiri,524.181875,477.4938321995465,0.9109315964035317,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,559,586,Kalamandalam Neelakandan Nambisan,Kalamandalam Unnikrishna Kurup,952.5239455782313,629.0454875283447,0.660398607770938,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,559,606,Kalamandalam Neelakandan Nambisan,Kottakkal Narayanan,952.5239455782313,897.5713378684808,0.9423084238828333,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,559,636,Kalamandalam Neelakandan Nambisan,Kottakkal P.D Namboothiri,952.5239455782313,491.4154195011338,0.5159087304653734,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,568,576,Kottakkal Narayanan,Kalamandalam Venmani Haridas,472.53784580498865,475.97430839002266,0.992780151103832,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,568,614,Kottakkal Narayanan,Kottakkal Narayanan,472.53784580498865,530.7278458049886,0.8903581177058092,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,568,635,Kottakkal Narayanan,Kottakkal P.D Namboothiri,472.53784580498865,380.502,0.8052307415754147,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,572,591,Kottakkal P.D Namboothiri,Kottakkal Madhu,775.7783446712018,700.776,0.9033198784338455,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,576,585,Kalamandalam Venmani Haridas,Kottakkal Narayanan,475.97430839002266,536.101125,0.887844263318833,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,576,596,Kalamandalam Venmani Haridas,Kottakkal P.D Namboothiri,475.97430839002266,477.4938321995465,0.9968177100790512,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,576,614,Kalamandalam Venmani Haridas,Kottakkal Narayanan,475.97430839002266,530.7278458049886,0.8968331172977785,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,576,635,Kalamandalam Venmani Haridas,Kottakkal P.D Namboothiri,475.97430839002266,380.502,0.799417097294691,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,581,636,Kottakkal Narayanan,Kottakkal P.D Namboothiri,699.2840362811792,491.4154195011338,0.7027407948771445,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,585,596,Kottakkal Narayanan,Kottakkal P.D Namboothiri,536.101125,477.4938321995465,0.8906786610446797,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,585,614,Kottakkal Narayanan,Kottakkal Narayanan,536.101125,530.7278458049886,0.989977116360255,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,585,635,Kottakkal Narayanan,Kottakkal P.D Namboothiri,536.101125,380.502,0.7097578838320848,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,586,595,Kalamandalam Unnikrishna Kurup,Kalanilayam Unnikrishnan,629.0454875283447,710.7134693877551,0.8850901447952528,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,586,636,Kalamandalam Unnikrishna Kurup,Kottakkal P.D Namboothiri,629.0454875283447,491.4154195011338,0.7812080831101912,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,588,606,Kalamandalam Babu Namboothiri,Kottakkal Narayanan,761.887641723356,897.5713378684808,0.8488324098368143,0.0,0,0,screen_below_threshold
+kuchela_vritham__ajitha_hare_jaya,591,593,Kottakkal Madhu,Kalamandalam Neelakandan Nambisan,700.776,389.7349886621315,0.5561477400226771,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,595,606,Kalanilayam Unnikrishnan,Kottakkal Narayanan,710.7134693877551,897.5713378684808,0.791818365184801,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,596,614,Kottakkal P.D Namboothiri,Kottakkal Narayanan,477.4938321995465,530.7278458049886,0.8996962114834982,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,596,635,Kottakkal P.D Namboothiri,Kottakkal P.D Namboothiri,477.4938321995465,380.502,0.796873120323336,0.0,0,0,screen_below_threshold
+kuchela_vritham__danavari,606,636,Kottakkal Narayanan,Kottakkal P.D Namboothiri,897.5713378684808,491.4154195011338,0.5474945542135168,0.0,0,0,screen_below_threshold
+kuchela_vritham__pushkara_vilochana,614,635,Kottakkal Narayanan,Kottakkal P.D Namboothiri,530.7278458049886,380.502,0.7169437273879392,0.0,0,0,screen_below_threshold

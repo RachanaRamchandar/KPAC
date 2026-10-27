@@ -1,0 +1,250 @@
+{
+  "status": "complete_locked_nested_evaluation",
+  "target_accuracy": 0.4,
+  "target_reached": false,
+  "recordings": 112,
+  "classes": 12,
+  "stories": 4,
+  "locked_assignment_sha256": "a558f3324b7051726b89f6678bce32df2a1cd549f0cc40a0206826956685bb50",
+  "mert_model": "m-a-p/MERT-v1-95M",
+  "mert_resolved_commit": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+  "primary_metrics": {
+    "recording_accuracy": 0.29464285714285715,
+    "macro_f1": 0.2675541606656157,
+    "balanced_accuracy": 0.27023358585858587,
+    "top_3_accuracy": 0.6071428571428571,
+    "accuracy_bootstrap_95_low": 0.21428571428571427,
+    "accuracy_bootstrap_95_high": 0.375
+  },
+  "outer_fold_selections": [
+    {
+      "outer_fold": 1,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.1,
+      "inner_accuracy": 0.2112676056338028,
+      "inner_macro_f1": 0.171342260680496,
+      "outer_test_size": 41
+    },
+    {
+      "outer_fold": 2,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.2191780821917808,
+      "inner_macro_f1": 0.17540954415954416,
+      "outer_test_size": 39
+    },
+    {
+      "outer_fold": 3,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.25,
+      "inner_macro_f1": 0.23417207792207792,
+      "outer_test_size": 32
+    }
+  ],
+  "class_support": {
+    "keechaka_vadham__harinakshi": 11,
+    "keechaka_vadham__kandivar_kuzhali": 16,
+    "kuchela_vritham__ajitha_hare_jaya": 8,
+    "kuchela_vritham__danavari": 8,
+    "kuchela_vritham__pushkara_vilochana": 9,
+    "nalacharitham_moonam_divasam__ghora_vipinam": 8,
+    "nalacharitham_moonam_divasam__lokapalanmaare": 9,
+    "nalacharitham_moonam_divasam__mariman_kanni": 9,
+    "nalacharitham_moonam_divasam__swaira_vachanam": 8,
+    "santhana_gopalam__ha_ha_karomi": 10,
+    "santhana_gopalam__sreeman_sakhe": 8,
+    "santhana_gopalam__vidhimatham": 8
+  },
+  "ablation_results": [
+    {
+      "experiment": "preregistered_nested_representation_selection",
+      "recording_accuracy": 0.29464285714285715,
+      "macro_f1": 0.2675541606656157,
+      "balanced_accuracy": 0.27023358585858587,
+      "top_3_accuracy": 0.6071428571428571,
+      "outer_fold_selected_C": "1:0.1;2:0.01;3:0.01",
+      "status": "primary_locked_result"
+    },
+    {
+      "experiment": "layer_6_mean_std_across_chunks",
+      "recording_accuracy": 0.29464285714285715,
+      "macro_f1": 0.2675541606656157,
+      "balanced_accuracy": 0.27023358585858587,
+      "top_3_accuracy": 0.6071428571428571,
+      "outer_fold_selected_C": "1:0.1;2:0.01;3:0.01",
+      "status": "secondary_nested_ablation"
+    },
+    {
+      "experiment": "layer_9_mean_std_across_chunks",
+      "recording_accuracy": 0.25,
+      "macro_f1": 0.22611498659292775,
+      "balanced_accuracy": 0.2357849326599327,
+      "top_3_accuracy": 0.5267857142857143,
+      "outer_fold_selected_C": "1:0.1;2:0.1;3:0.01",
+      "status": "secondary_nested_ablation"
+    },
+    {
+      "experiment": "layer_12_mean_std_across_chunks",
+      "recording_accuracy": 0.24107142857142858,
+      "macro_f1": 0.2180872121988541,
+      "balanced_accuracy": 0.22271675084175088,
+      "top_3_accuracy": 0.48214285714285715,
+      "outer_fold_selected_C": "1:0.01;2:0.01;3:0.1",
+      "status": "secondary_nested_ablation"
+    },
+    {
+      "experiment": "last_4_layers_mean_std_across_chunks",
+      "recording_accuracy": 0.26785714285714285,
+      "macro_f1": 0.2512082019922914,
+      "balanced_accuracy": 0.25264099326599326,
+      "top_3_accuracy": 0.5714285714285714,
+      "outer_fold_selected_C": "1:0.1;2:0.01;3:0.01",
+      "status": "secondary_nested_ablation"
+    },
+    {
+      "experiment": "known_story_plus_nested_MERT",
+      "recording_accuracy": 0.4642857142857143,
+      "macro_f1": 0.4426375318710935,
+      "balanced_accuracy": 0.4455071548821549,
+      "top_3_accuracy": 0.9732142857142857,
+      "outer_fold_selected_C": "story-specific nested selection",
+      "status": "posthoc_metadata_conditioned_diagnostic"
+    },
+    {
+      "experiment": "training_majority_label",
+      "recording_accuracy": 0.14285714285714285,
+      "macro_f1": 0.020833333333333332,
+      "balanced_accuracy": 0.08333333333333333,
+      "top_3_accuracy": "",
+      "outer_fold_selected_C": "",
+      "status": "non_audio_baseline"
+    },
+    {
+      "experiment": "known_story_training_majority",
+      "recording_accuracy": 0.38392857142857145,
+      "macro_f1": 0.20245478036175713,
+      "balanced_accuracy": 0.3263888888888889,
+      "top_3_accuracy": "",
+      "outer_fold_selected_C": "",
+      "status": "metadata_oracle_diagnostic"
+    }
+  ],
+  "posthoc_known_story_mert_metrics": {
+    "recording_accuracy": 0.4642857142857143,
+    "macro_f1": 0.4426375318710935,
+    "balanced_accuracy": 0.4455071548821549,
+    "top_3_accuracy": 0.9732142857142857
+  },
+  "posthoc_known_story_mert_selections": [
+    {
+      "story": "Keechaka Vadham",
+      "outer_fold": 1,
+      "representation": "layer_9_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.7058823529411765,
+      "inner_macro_f1": 0.7017543859649122,
+      "outer_test_size": 10
+    },
+    {
+      "story": "Keechaka Vadham",
+      "outer_fold": 2,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.3333333333333333,
+      "inner_macro_f1": 0.325,
+      "outer_test_size": 9
+    },
+    {
+      "story": "Keechaka Vadham",
+      "outer_fold": 3,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.8947368421052632,
+      "inner_macro_f1": 0.8920454545454546,
+      "outer_test_size": 8
+    },
+    {
+      "story": "Kuchela Vritham",
+      "outer_fold": 1,
+      "representation": "layer_9_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.5625,
+      "inner_macro_f1": 0.5343915343915344,
+      "outer_test_size": 9
+    },
+    {
+      "story": "Kuchela Vritham",
+      "outer_fold": 2,
+      "representation": "last_4_layers_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.5625,
+      "inner_macro_f1": 0.5572390572390572,
+      "outer_test_size": 9
+    },
+    {
+      "story": "Kuchela Vritham",
+      "outer_fold": 3,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.4444444444444444,
+      "inner_macro_f1": 0.4102564102564103,
+      "outer_test_size": 7
+    },
+    {
+      "story": "Nalacharitham Moonam Divasam",
+      "outer_fold": 1,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.1,
+      "inner_accuracy": 0.2727272727272727,
+      "inner_macro_f1": 0.24038461538461536,
+      "outer_test_size": 12
+    },
+    {
+      "story": "Nalacharitham Moonam Divasam",
+      "outer_fold": 2,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.2727272727272727,
+      "inner_macro_f1": 0.2361111111111111,
+      "outer_test_size": 12
+    },
+    {
+      "story": "Nalacharitham Moonam Divasam",
+      "outer_fold": 3,
+      "representation": "layer_12_mean_std_across_chunks",
+      "C": 0.1,
+      "inner_accuracy": 0.16666666666666666,
+      "inner_macro_f1": 0.18354978354978355,
+      "outer_test_size": 10
+    },
+    {
+      "story": "Santhana Gopalam",
+      "outer_fold": 1,
+      "representation": "layer_9_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.375,
+      "inner_macro_f1": 0.3686609686609687,
+      "outer_test_size": 10
+    },
+    {
+      "story": "Santhana Gopalam",
+      "outer_fold": 2,
+      "representation": "layer_9_mean_std_across_chunks",
+      "C": 0.01,
+      "inner_accuracy": 0.4117647058823529,
+      "inner_macro_f1": 0.38888888888888884,
+      "outer_test_size": 9
+    },
+    {
+      "story": "Santhana Gopalam",
+      "outer_fold": 3,
+      "representation": "layer_6_mean_std_across_chunks",
+      "C": 0.1,
+      "inner_accuracy": 0.631578947368421,
+      "inner_macro_f1": 0.6305555555555555,
+      "outer_test_size": 7
+    }
+  ],
+  "methodological_note": "The outer folds were frozen before MERT download or extraction; all representation and C choices were made inside each outer training partition."
+}

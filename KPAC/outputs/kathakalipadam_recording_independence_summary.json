@@ -1,0 +1,11 @@
+{
+  "validated_recordings": 400,
+  "canonical_classes": 88,
+  "globally_unique_audio_sha256": 400,
+  "global_byte_duplicates": 0,
+  "classes_with_inconsistent_canonical_label_or_story": 0,
+  "classes_with_within_class_byte_duplicate": 0,
+  "classes_ge_8": 12,
+  "recordings_in_classes_ge_8": 112,
+  "interpretation": "All admitted recordings are byte-distinct and canonical labels are internally consistent. Distinct URLs, millisecond durations, and artist combinations strengthen but cannot prove performance independence."
+}

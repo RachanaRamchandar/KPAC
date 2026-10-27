@@ -1,0 +1,13 @@
+padam_canonical_id,support,precision,recall,f1,correct
+keechaka_vadham__harinakshi,11,0.23529411764705882,0.36363636363636365,0.2857142857142857,4
+keechaka_vadham__kandivar_kuzhali,16,0.6428571428571429,0.5625,0.6,9
+kuchela_vritham__ajitha_hare_jaya,8,0.5,0.5,0.5,4
+kuchela_vritham__danavari,8,0.23076923076923078,0.375,0.2857142857142857,3
+kuchela_vritham__pushkara_vilochana,9,0.375,0.3333333333333333,0.35294117647058826,3
+nalacharitham_moonam_divasam__ghora_vipinam,8,0.09090909090909091,0.125,0.10526315789473684,1
+nalacharitham_moonam_divasam__lokapalanmaare,9,0.125,0.1111111111111111,0.11764705882352941,1
+nalacharitham_moonam_divasam__mariman_kanni,9,0.2222222222222222,0.2222222222222222,0.2222222222222222,2
+nalacharitham_moonam_divasam__swaira_vachanam,8,0.2,0.125,0.15384615384615385,1
+santhana_gopalam__ha_ha_karomi,10,0.5,0.4,0.4444444444444444,4
+santhana_gopalam__sreeman_sakhe,8,0.0,0.0,0.0,0
+santhana_gopalam__vidhimatham,8,0.16666666666666666,0.125,0.14285714285714285,1

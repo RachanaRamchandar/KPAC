@@ -1,0 +1,38 @@
+{
+  "status": "preregistered_before_MERT_model_download_or_feature_extraction",
+  "benchmark_manifest": "kathakalipadam_mert_locked_benchmark.csv",
+  "benchmark_assignment_sha256": "a558f3324b7051726b89f6678bce32df2a1cd549f0cc40a0206826956685bb50",
+  "model": "m-a-p/MERT-v1-95M",
+  "model_revision_policy": "resolved and pinned to Hugging Face commit 12af15fef9d0ac838c3f475bfbbf26d2060dd4f5 after the compatibility smoke test; no embeddings existed when layer/chunk/classifier choices were preregistered",
+  "audio": {
+    "sample_rate_hz": 24000,
+    "mono": true,
+    "chunk_seconds": 8.0,
+    "chunks_per_recording": 5,
+    "chunk_positions": "evenly spaced from 5% to 85% of valid start range; zero-pad only if recording is shorter than one chunk",
+    "amplitude_normalization": "none"
+  },
+  "record_representations": [
+    "layer_6_mean_std_across_chunks",
+    "layer_9_mean_std_across_chunks",
+    "layer_12_mean_std_across_chunks",
+    "last_4_layers_mean_std_across_chunks"
+  ],
+  "classifier_grid": {
+    "type": "linear_svm",
+    "C": [0.01, 0.1, 1.0, 10.0]
+  },
+  "selection": "For each locked outer fold, select representation and C using deterministic three-fold stratified CV on that outer training partition only. Refit on the complete outer training partition and predict the untouched outer test partition once.",
+  "primary_metrics": [
+    "recording_accuracy",
+    "macro_f1"
+  ],
+  "secondary_metrics": [
+    "balanced_accuracy",
+    "top_3_accuracy",
+    "per_class_recall",
+    "95_percent_bootstrap_accuracy_interval"
+  ],
+  "target": "recording_accuracy_at_least_0.40",
+  "created_utc": "2026-08-09T17:10:00Z"
+}

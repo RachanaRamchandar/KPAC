@@ -1,0 +1,152 @@
+{
+  "status": "complete_additional_exact_fold_diagnostics",
+  "locked_assignment_sha256": "a558f3324b7051726b89f6678bce32df2a1cd549f0cc40a0206826956685bb50",
+  "recordings": 112,
+  "classes": 12,
+  "folds": 3,
+  "preprocessing_note": "For every inner split, StandardScaler and LinearSVC are instantiated as one pipeline and fitted only on that inner training subset.",
+  "feature_protocol": {
+    "handcrafted": "Six deterministic 20-second excerpts; MFCC, delta-MFCC, chroma and spectral summaries; record-level mean and standard deviation.",
+    "yamnet": "Frozen TF Hub YAMNet/1 on the same six excerpts; record-level mean and standard deviation of chunk embedding means."
+  },
+  "results": [
+    {
+      "accuracy": 0.24107142857142858,
+      "macro_f1": 0.21755918005918007,
+      "balanced_accuracy": 0.22960858585858587,
+      "experiment": "handcrafted_mfcc_chroma_spectral",
+      "recordings": 112,
+      "classes": 12,
+      "top_3_accuracy": 0.5178571428571429,
+      "accuracy_bootstrap_95": [
+        0.16071428571428573,
+        0.32142857142857145
+      ],
+      "outer_fold_selections": [
+        {
+          "outer_fold": 1,
+          "C": 0.01,
+          "inner_accuracy": 0.2676056338028169,
+          "inner_macro_f1": 0.23906146188754884,
+          "outer_test_size": 41
+        },
+        {
+          "outer_fold": 2,
+          "C": 0.1,
+          "inner_accuracy": 0.2602739726027397,
+          "inner_macro_f1": 0.21991466866466866,
+          "outer_test_size": 39
+        },
+        {
+          "outer_fold": 3,
+          "C": 0.01,
+          "inner_accuracy": 0.2125,
+          "inner_macro_f1": 0.18432123432123435,
+          "outer_test_size": 32
+        }
+      ]
+    },
+    {
+      "accuracy": 0.22321428571428573,
+      "macro_f1": 0.20082831112242874,
+      "balanced_accuracy": 0.20929082491582487,
+      "experiment": "yamnet_frozen_embedding",
+      "recordings": 112,
+      "classes": 12,
+      "top_3_accuracy": 0.4017857142857143,
+      "accuracy_bootstrap_95": [
+        0.15178571428571427,
+        0.30357142857142855
+      ],
+      "outer_fold_selections": [
+        {
+          "outer_fold": 1,
+          "C": 0.1,
+          "inner_accuracy": 0.1267605633802817,
+          "inner_macro_f1": 0.11914735591206181,
+          "outer_test_size": 41
+        },
+        {
+          "outer_fold": 2,
+          "C": 0.01,
+          "inner_accuracy": 0.0958904109589041,
+          "inner_macro_f1": 0.06650539003480181,
+          "outer_test_size": 39
+        },
+        {
+          "outer_fold": 3,
+          "C": 0.01,
+          "inner_accuracy": 0.125,
+          "inner_macro_f1": 0.11029411764705883,
+          "outer_test_size": 32
+        }
+      ]
+    },
+    {
+      "accuracy": 0.08035714285714286,
+      "macro_f1": 0.03983397190293742,
+      "balanced_accuracy": 0.05681818181818182,
+      "experiment": "main_artist_metadata_only",
+      "recordings": 112,
+      "classes": 12,
+      "top_3_accuracy": 0.2857142857142857,
+      "accuracy_bootstrap_95": [
+        0.03571428571428571,
+        0.13392857142857142
+      ],
+      "rule": "Training-fold label mode for the test record's main musician; training-fold global mode for unseen or missing musicians."
+    }
+  ],
+  "mert_unseen_artist_subset": {
+    "definition": "Test recordings whose non-empty main musician is absent from that outer fold's training partition; this is a diagnostic subset, not an artist-disjoint resplit.",
+    "recordings": 13,
+    "main_musicians": 9,
+    "accuracy": 0.38461538461538464,
+    "macro_f1_observed_classes": 0.2916666666666667,
+    "folds": [
+      {
+        "outer_fold": 1,
+        "unseen_artist_recordings": 3,
+        "unseen_main_musicians": [
+          "Kalamandalam Subramanian",
+          "Kottakkal Parameswaran Namboothiri"
+        ]
+      },
+      {
+        "outer_fold": 2,
+        "unseen_artist_recordings": 9,
+        "unseen_main_musicians": [
+          "Athippatta Raveendran",
+          "Kalamandalam Harish Namboothiri",
+          "Kalamandalam Jayaprakash",
+          "Kalamandalam Neelakandan Nambisan",
+          "Palanad Divakaran",
+          "Vellinezhi Haridas"
+        ]
+      },
+      {
+        "outer_fold": 3,
+        "unseen_artist_recordings": 1,
+        "unseen_main_musicians": [
+          "Kalamandalam P.G Radhakrishnan"
+        ]
+      }
+    ],
+    "record_ids": [
+      "146",
+      "293",
+      "294",
+      "057",
+      "147",
+      "148",
+      "252",
+      "302",
+      "335",
+      "553",
+      "559",
+      "593",
+      "551"
+    ]
+  },
+  "interpretation": "These additional diagnostics use the frozen outer folds. They broaden reference baselines but do not convert the original recording-held-out design into an artist- or performance-disjoint benchmark."
+}

@@ -1,0 +1,17 @@
+# Core corpus and classical-audio baseline environment
+librosa==0.11.0
+numpy==2.4.6
+scikit-learn==1.9.0
+scipy==1.18.0
+soundfile==0.14.0
+
+# Frozen MERT environment used for the locked reference evaluation
+# Install in a separate Python 3.10/3.11 environment if dependency resolution
+# conflicts with TensorFlow/YAMNet.
+torch==2.4.1
+transformers==4.44.2
+
+# Frozen YAMNet environment used for the additional diagnostic
+# These packages are best installed in a separate environment.
+tensorflow==2.16.2
+tensorflow-hub==0.16.1

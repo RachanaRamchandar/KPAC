@@ -1,0 +1,30 @@
+{
+  "status": "locked_before_MERT_feature_extraction",
+  "minimum_validated_recordings_per_class": 8,
+  "recordings": 112,
+  "classes": 12,
+  "folds": 3,
+  "fold_sizes": {
+    "1": 41,
+    "2": 39,
+    "3": 32
+  },
+  "class_sizes": {
+    "keechaka_vadham__harinakshi": 11,
+    "keechaka_vadham__kandivar_kuzhali": 16,
+    "kuchela_vritham__ajitha_hare_jaya": 8,
+    "kuchela_vritham__danavari": 8,
+    "kuchela_vritham__pushkara_vilochana": 9,
+    "nalacharitham_moonam_divasam__ghora_vipinam": 8,
+    "nalacharitham_moonam_divasam__lokapalanmaare": 9,
+    "nalacharitham_moonam_divasam__mariman_kanni": 9,
+    "nalacharitham_moonam_divasam__swaira_vachanam": 8,
+    "santhana_gopalam__ha_ha_karomi": 10,
+    "santhana_gopalam__sreeman_sakhe": 8,
+    "santhana_gopalam__vidhimatham": 8
+  },
+  "assignment_seed": "kathakalipadam-mert-outer-v1-2026-08-09",
+  "assignment_sha256": "a558f3324b7051726b89f6678bce32df2a1cd549f0cc40a0206826956685bb50",
+  "protocol": "Nested evaluation: classifier and MERT layer/pooling choices are selected only inside each outer training fold; outer test predictions are emitted once.",
+  "created_before_embedding_extraction": true
+}

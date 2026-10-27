@@ -1,0 +1,29 @@
+{
+  "prior_validated_recordings": 233,
+  "new_repeat_rich_manifest_recordings": 190,
+  "new_downloaded_and_decoded": 167,
+  "new_validated_unique_recordings": 167,
+  "total_validated_unique_recordings": 400,
+  "total_canonical_classes": 88,
+  "classes_with_at_least_8_validated_recordings": 12,
+  "recordings_in_8plus_classes": 112,
+  "class_count_distribution": {
+    "1": 1,
+    "2": 2,
+    "3": 37,
+    "4": 16,
+    "5": 14,
+    "6": 4,
+    "7": 2,
+    "8": 6,
+    "9": 3,
+    "10": 1,
+    "11": 1,
+    "16": 1
+  },
+  "duplicates": {
+    "same_label": {},
+    "conflicting_label": {}
+  },
+  "output_csv": "/Users/rachanaramchandar/Documents/Codex/2026-08-09/https-www-kathakalipadam-com-index-php-2/outputs/kathakalipadam_repeat_rich_validated_audio.csv"
+}
